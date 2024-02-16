@@ -1,6 +1,6 @@
 names: ['boar']
 nc: 2
 
-test: /content/drive/MyDrive/yolo_practice/yolov8/datasets/person/test/images
-train: /content/drive/MyDrive/yolo_practice/yolov8/datasets/person/train/images
-val: /content/drive/MyDrive/yolo_practice/yolov8/datasets/person/validation/images
+test: ./test/images
+train: ./train/images
+val: ./validation/images
